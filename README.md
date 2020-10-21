@@ -39,11 +39,12 @@ This is how the output will look like!!
 
 
 
+
 Pandas has provided us with a `.corr()` function:
 
-    ``` python
-    correlation = Data_CP_Perc_Change.corr()
-    ```
+``` python
+correlation = Data_CP_Perc_Change.corr()
+```
     
 To know more about `.corr()`, Visit [pandas.DataFrame.corr](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.corr.html)
 
