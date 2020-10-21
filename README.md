@@ -38,11 +38,15 @@ It's extremely useful if you want to create a Diversified portfolio
 This is how the output will look like!!
 
 
+
 Pandas has provided us with a `.corr()` function:
+
     ``` python
     correlation = Data_CP_Perc_Change.corr()
     ```
+    
 To know more about `.corr()`, Visit [pandas.DataFrame.corr](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.corr.html)
+
 
 
 - Try the code with different Stock Prices datasets to get a deeper understanding of Correlation
